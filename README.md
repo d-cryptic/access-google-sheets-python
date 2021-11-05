@@ -35,3 +35,5 @@ py -3 -m venv venv
 venv\Scripts\activate
 pip install gspread
 ```
+
+#### [Demo Google Sheet](https://docs.google.com/spreadsheets/d/1s_C1pAwxejfEr0Nyt9FlPXQPZ6aTNM_oUDS_AFr0ut8/edit#gid=0)
